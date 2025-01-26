@@ -2,7 +2,7 @@
 
     // summary: A simple feature detection function/framework.
     //
-    // name: String
+    // name: Strings
     //      The name of the feature to detect, as defined by the overall `has` tests.
     //      Tests can be registered via `has.add(testname, testfunction)`.
     //
